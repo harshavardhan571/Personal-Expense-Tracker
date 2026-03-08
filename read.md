@@ -90,3 +90,5 @@ expense-tracker/
 │ └─ expenses.json
 ├─ README.md
 └─ .gitignore
+
+in data folder --> expenses.json--->create an empty list with no variable just place ==>[]
