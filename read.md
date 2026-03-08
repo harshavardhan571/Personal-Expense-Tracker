@@ -78,6 +78,15 @@ Run the following command from the project folder:
 
 ---
 
-# Part 4: What students should check
+# Part 4: What We should check
 
 After creating these files, the project should now look like:
+expense-tracker/
+├─ src/
+│ ├─ main.py
+│ ├─ tracker.py
+│ └─ storage.py
+├─ data/
+│ └─ expenses.json
+├─ README.md
+└─ .gitignore
