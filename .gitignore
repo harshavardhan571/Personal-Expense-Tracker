@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+data/expenses.json
+# Local data files
+
+# Mac system files
+.DS_Store
